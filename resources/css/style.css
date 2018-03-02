@@ -21,11 +21,11 @@ body {
   font-size: 32px;
   font-weight: bold;
 }
-.process h3{
+.process h3, .contact h3{
   font-size: 23px;
   font-weight: bold;
   }
-  .process p{
+  .process p, .contact p{
     font-size: 14px;
   }
   .design_ny {
