@@ -10,7 +10,9 @@ body {
 .heading p {
   font-size: 18px;
   color: white;
+  text-decoration: underline;
 }
 .heading{
   background-image: url("../../resources/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
 }
