@@ -15,4 +15,22 @@ body {
 .heading{
   background-image: url("../../resources/images/the-flatiron-building.png");
   background-repeat: no-repeat;
+  background-size: cover;
 }
+.process h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+.process h3{
+  font-size: 23px;
+  font-weight: bold;
+  }
+  .process p{
+    font-size: 14px;
+  }
+  .design_ny {
+    background-image: url("../../resources/images/the-flatiron-building.png");
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+  }
